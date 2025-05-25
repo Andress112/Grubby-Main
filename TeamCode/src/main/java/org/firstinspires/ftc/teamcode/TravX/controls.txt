@@ -1,0 +1,41 @@
+Player 1:
+
+    Joystick_left - Move Robot
+    Joystick_right - Rotate Robot
+
+    Joystick_left_button - Motor Power Crawl/Fast
+    Joystick_right_button - Switch autonomous pickup colors (Red/Blue Alliance)
+ 
+    options - Turn On/Off Drivetrain
+
+    cross - Toggle Collector Max/Min
+    square - Toggle collector claw
+    circle - Transfer Action
+    triangle - Toggle Collector Claw pitch
+
+    right_trigger - Extend Collector Control
+    left_trigger - Retract Collector Control
+
+    left_bumper - Toggle auto collect mode (only auto claw movements)
+
+    dpad_up - Reset All
+    dpad_right - Toggle auto collect mode full
+    dpad_left - Reverse Controls
+    dpad_down - Throw sample
+
+    touchpad_button - Change Autonomous collect color
+
+Player 2:
+
+    right_bumper - Retract main arm
+    Left_bumper - Extend main arm
+
+    cross - Toggle Arm Claw
+    square - Clip Specimen
+    circle - Switch Main Arm position
+    triangle - Switch Main Arm position to collection Position
+
+    dpad_down - Retract main arm all the way
+    dpad_up - Extend main arm all the way
+
+    Joystick_right_button with Joystick_left_button - Toggle Hang
